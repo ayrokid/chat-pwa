@@ -1,4 +1,5 @@
-# pwa-sociomile
+# chat-pwa
+galery photo with vuejs PWA
 
 > A Vue.js project
 
